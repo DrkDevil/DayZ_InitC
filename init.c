@@ -49,6 +49,8 @@ void main()
 		}
 	}
 
+// Add your BuilderItems or DayZ Editor Code Here for building and item placement
+
 class CONFIG 
 {
 	// Character Creation
@@ -64,7 +66,7 @@ class CONFIG
 	static ref const array<string> GEAR_GLOVES		= {"WorkingGloves_Black", "WorkingGloves_Brown", "WorkingGloves_Beige" , "WorkingGloves_Yellow"};
 	static ref const array<string> GEAR_SHOES 		= {"AthleticShoes_Black", "AthleticShoes_Green", "AthleticShoes_Blue", "AthleticShoes_Brown", "AthleticShoes_Grey"};
 	static ref const array<string> GEAR_MELEE 		= {"StoneKnife", "KitchenKnife", "SteakKnife"};
-	static ref const array<string> GEAR_BACKPACK 	= {"TaloonBag_Blue", "TaloonBag_Green", "TaloonBag_Orange", "TaloonBag_Violet"};
+	static ref const array<string> GEAR_BACKPACK    = {"TaloonBag_Blue", "TaloonBag_Green", "TaloonBag_Orange", "TaloonBag_Violet"};
 	static ref const array<string> CHEMLIGHT		= {"Chemlight_White", "Chemlight_Yellow", "Chemlight_Green", "Chemlight_Red"};
 	static ref const array<string> FOOD    	    	= {"PeachesCan", "SpaghettiCan", "TacticalBaconCan", "BakedBeansCan"};
 	static ref const array<string> DRINK    		= {"SodaCan_Cola", "SodaCan_Pipsi", "SodaCan_Spite", "SodaCan_Kvass"};
